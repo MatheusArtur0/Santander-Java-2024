@@ -30,5 +30,34 @@ Eu sou de Recife, Pernambuco e atualmente estou cursando o terceiro período de 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-
 </div>
+
+
+## :pushpin: SPRINTS
+
+
+1. [Princípios de desenvolvimento de Software Colaborativo](Sprint_1) :heavy_check_mark:
+
+
+
+2. [Dominando a Linguagem de Programação Java](Sprint_2) :construction: :construction_worker: :construction:
+
+
+
+3. [Programação Orientada a Objetos com Java](Sprint_3) :construction: :construction_worker: :construction:
+
+
+
+4. [Teste e Gerenciamento de Dependências em Projetos Java](Sprint_4) :construction: :construction_worker: :construction:
+
+
+
+5. [Banco de Dados SQL e NoSQL Para Desenvolvedores Back-End](Sprint_5) :construction: :construction_worker: :construction:
+
+
+
+6. [Ganhando Produtividade no Java com Spring Framework](Sprint_6) :construction: :construction_worker: :construction:
+
+
+
+7. [Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades](Sprint_7) :construction: :construction_worker: :construction:
